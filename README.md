@@ -15,7 +15,7 @@ Instalação e Uso
 Clone o repositório para sua máquina local:
 bash
 Copy code
-git clone https://github.com/seu-usuario/PokeDex.git
+git clone https://github.com/eziocdl/Pokemon.git
 Navegue até o diretório do projeto:
 bash
 Copy code
